@@ -20,4 +20,4 @@ Installation normale
 
 ## Crédits
 
-Le travail consiste à adapter le code que notre professeur nous donner pour réaliser la tache
+Le travail consiste à adapter le code que notre professeur nous donner pour réaliser la tache (Récuperer les data à partir d'un fichier XML)
