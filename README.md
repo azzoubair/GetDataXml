@@ -24,7 +24,7 @@ Le travail consiste à adapter le code que notre professeur nous donner pour ré
 
 ## Licence
 
-Gratuit pour utilisation de tous les projets
+Open source pour utilisation de tous les projets
 
 ## Contact
 
