@@ -21,3 +21,14 @@ Installation normale
 ## Crédits
 
 Le travail consiste à adapter le code que notre professeur nous donner pour réaliser la tache (Récuperer les data à partir d'un fichier XML)
+
+## Licence
+
+Gratuit pour utilisation de tous les projets
+
+## Contact
+
+Azzoubair MTAIRAG
+Email : azzoubair.mtairag@gmail.com
+
+
